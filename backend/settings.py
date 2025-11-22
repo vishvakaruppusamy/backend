@@ -102,3 +102,5 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # Extra folder where you keep your static files
 STATICFILES_DIRS = [BASE_DIR / "static"]
+
+
