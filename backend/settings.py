@@ -7,7 +7,7 @@ AUTH_USER_MODEL = "accounts.CustomUser"
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = "replace-with-your-secret"  # keep secret in production
+SECRET_KEY = "qg9%*io1kka3_j4g#$s6lzj$v@nz+d+av$in%!k+@s2_6j##7e"  # keep secret in production
 
 DEBUG = True
 
