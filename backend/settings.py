@@ -9,9 +9,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = "qg9%*io1kka3_j4g#$s6lzj$v@nz+d+av$in%!k+@s2_6j##7e"  # keep secret in production
 
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+
+ALLOWED_HOSTS = ['*']
+
 
 INSTALLED_APPS = [
     "django.contrib.admin",
